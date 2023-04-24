@@ -21,6 +21,11 @@ Acesse meu [Portfólio](https://github.com/CaiOliveira04)!
 <div align="center">
   <h1>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px>   </h1>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,next,tailwind,styledcomponents,firebase" />
+  </a>
+</p>
 
 <div align="center">
   <p align="center"><b>Visitors Count</p>  
