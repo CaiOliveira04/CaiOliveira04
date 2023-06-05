@@ -23,7 +23,7 @@ Acesse meu [Portfólio](https://github.com/CaiOliveira04)!
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,next,tailwind,styledcomponents,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,next,tailwind,styledcomponents,firebase,mysql" />
   </a>
 </p>
 
